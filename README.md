@@ -13,8 +13,8 @@
 <strong>	5.</strong> E para representar CLASSES que foram criadas e relacionadas, iremos transforma-las em OBJETOS<br>
 </p>
 
-----
 
+<br>
 <h2> 📚 Paradigma de Programação Orientado a Objetos (POO) </h2>
 
 <p>
@@ -46,11 +46,11 @@ Habilidade de concentrar-se nos aspectos essenciais de um domínio, ignorando ca
 <h3>🔻 DOMÍNIO:</h3> 
 Domínio da aplicação, também conhecida como camada de negócio ou de objetos de negócio, é aquela onde estão localizadas as classes que fazem parte do domínio do problema, ou seja, classes correspondentes a objetos que fazem parte da descrição do problema.
 
-<h3>🔻 CLASSE: </h3> 
+<h3>🔻 CLASSE: </h3>
 Um elemento do código que tem a função de representar objetos do mundo real. Dentro dela é comum declararmos atributos e métodos, que representam, respectivamente, as características e comportamentos desse objeto.
 
 <h3>🔻 ATRIBUTO: </h3>
-Atributos são, basicamente, a estrutura de dados que vai representar a classe. Os atributos também são conhecidos como VARIÁVEL DE CLASSE, e podem ser divididos em dois tipos básicos: atributos de instância e de classe. 
+Atributos são, basicamente, a estrutura de dados que vai representar a classe. Os atributos também são conhecidos como VARIÁVEL DE CLASSE, e podem ser divididos em dois tipos básicos: atributos de instância e de classe.
 
 <h3>🔻 VARIÁVEL: </h3>
 Uma “região de memória (do computador) previamente identificada cuja finalidade é armazenar os dados ou informações de um programa por um determinado espaço de tempo”.
@@ -60,16 +60,15 @@ Os métodos representam os estados e ações dos objetos e classes.
 
 <h3>🔻 OBJETO: </h3>
 Em POO, objeto é um "molde" de uma determinada classe, que passa a existir a partir de uma instância da classe. A classe define o comportamento do objeto, usando atributos (propriedades) e métodos (ações).
-Objeto em ciência da computação, é uma referência a um local da memória que possui um valor. Um objeto pode ser uma variável, função, ou estrutura de dados. 
+Objeto em ciência da computação, é uma referência a um local da memória que possui um valor. Um objeto pode ser uma variável, função, ou estrutura de dados.
 
 <h3>🔻 INSTÂNCIA: </h3>
 Uma instância de uma classe é um novo objeto criado dessa classe, com o operador new. Instanciar uma classe é criar um novo objeto do mesmo tipo dessa classe. Uma classe somente poderá ser utilizada após ser instanciada.
 
 </p>
-    
-------------
-<br>
 
+
+<br>
 <h2> 🧮 Linguagem de Programação vs Paradigma de Linguagem de Programação</h2>
 
 <p>
@@ -121,15 +120,10 @@ Vejamos alguns Subparadigmas do Paradigma Declarativo e exemplos linguagens de p
 </p>
 <br>
 
-<h3> 🖥️ IDE </h3>
-
-------------
-
+<h2> 🖥️ IDE </h2>
 Este projeto foi desenvolvido utilizando a IDE IntelliJ IDEA.
 
 Você pode baixá-la em: [jetbrains.com/idea](https://www.jetbrains.com/idea/)
 
 <h2> 🤝 Referências </h2>
-
-------------
 [1] "Aprendendo POO na Prática" Camila Cavalcante. Disponível em: https://github.com/cami-la/desafio-POO-DIO.
